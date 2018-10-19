@@ -1,5 +1,5 @@
 project_name = "test-jenkins"
-repo= "https://github.com/ivandw/jobdsl.git"
+repo= "git@github.com:ivandw/test-jenkins.git"
 repo_name= "repo"
 
 
